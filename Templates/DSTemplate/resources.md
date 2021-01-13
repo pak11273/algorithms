@@ -4,8 +4,19 @@ These are the resources that I used to learn the topic. There are several ways t
 
 ## Courses
 
+- https://www.coursera.org/learn/data-structures
+
 ## Videos
 
 ## Books
 
+- Cracking the Code Interview
+  - https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+
 ## Links
+
+[Arrays-and-linked-lists](/shared/documents/Arrays-and-linked-lists.pdf)
+
+## Anki
+
+https://ankiweb.net/shared/info/1580295181
